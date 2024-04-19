@@ -1,0 +1,26 @@
+- Bài 1: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 1.0
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) đúng
+Điểm bài tập: 3.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4:
+a) tổng không có phần tử 6**0
+b) Với n = 11, tổng của em sẽ là 0 + 1/3^3 + 4/6**3 + .... không đúng với yêu cầu đề bài
+c) đúng
+d) thiếu
+Điểm bài tập: 0.75
+
+- Bài 5: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.75
+
+- Bài 6: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 4: 7.0
