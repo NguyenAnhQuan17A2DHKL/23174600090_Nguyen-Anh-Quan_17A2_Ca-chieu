@@ -1,0 +1,14 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: 
++ Ghi kết quả vào CSV nhiều lần không chính xác: Trong vòng lặp ghi kết quả vào file CSV, đang ghi các giá trị của player_choice, new_choice, và kết quả cuối cùng nhiều lần nhưng các giá trị này không thay đổi trong mỗi vòng lặp của vòng for _ in range(num_simulations).
++ Kết quả của từng lần mô phỏng nên được lưu vào danh sách và sau đó mới ghi vào file CSV.
+
+Điểm: 1.5
+
+File: Xuất được file csv
+Điểm: 4.0
+
+Có ảnh chạy code
+Điểm: 2.0
+
+Điểm bài tập lớn: 7.5
